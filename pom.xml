@@ -15,14 +15,14 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
- <distributionManagement>
+<distributionManagement>
   <snapshotRepository>
-    <id>nexus-snapshots</id>
-    <url>http://44.212.63.51:8081/repository/maven-snapshots/</url>
+    <id>Jrfog-snapshots</id>
+    <url>http://100.25.154.120:8082/artifactory/Jrfog-snapshots/</url>
   </snapshotRepository>
 <repository>
-<id>nexus-releases</id>
-<url>http://44.212.63.51:8081/repository/maven-releases/</url>
+<id>Jfrog-release</id>
+<url>http://100.25.154.120:8082/artifactory/Jfrog-release/</url>
 </repository>
 </distributionManagement>
 </project>
