@@ -15,14 +15,5 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-<distributionManagement>
-  <snapshotRepository>
-    <id>Jrfog-snapshots</id>
-    <url>http://100.25.154.120:8082/artifactory/Jrfog-snapshots/</url>
-  </snapshotRepository>
-<repository>
-<id>Jfrog-release</id>
-<url>http://100.25.154.120:8082/artifactory/Jfrog-release/</url>
-</repository>
-</distributionManagement>
+
 </project>
